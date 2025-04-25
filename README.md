@@ -20,17 +20,6 @@ This Python script reads a grid of Unicode characters from a Google Doc and prin
    ```bash
    poetry install
    ```
-
-3. Set up Google API credentials:
-   - Go to the [Google Cloud Console](https://console.cloud.google.com/)
-   - Create a new project
-   - Enable the Google Docs API for your project
-   - Create OAuth 2.0 credentials:
-     - Go to "APIs & Services" > "Credentials"
-     - Click "Create Credentials" > "OAuth client ID"
-     - Choose "Desktop app" as the application type
-     - Download the credentials and save them as `credentials.json` in the project root
-
 ## Usage
 
 1. Activate the Poetry environment:
