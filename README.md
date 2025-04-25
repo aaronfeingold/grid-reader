@@ -71,5 +71,3 @@ This would output:
 - X increases to the right
 - Y increases downward
 - Empty spaces are filled with spaces
-- The first time you run the script, it will open a browser window for you to authenticate with Google
-- Authentication tokens are stored in `token.pickle` for future use
